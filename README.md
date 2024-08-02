@@ -12,7 +12,7 @@ If you are looking for a developer who’ll take over the research and developme
 
 🔭 I’m currently working as a Developer for DDA (Direct Design) building web applications.
 
-⚡ In my free time, I solve problems, play video games and read tech articles.
+⚡ In my free time, I solve problems, play video games, read articles and a full-time Dad.
 
 ### Contact Information
 -  [![Linkedin Badge](https://img.shields.io/badge/-lukeoregan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lukeoregan/)
