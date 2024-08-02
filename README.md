@@ -110,4 +110,4 @@ During my time studying, I launched as a digital designer doing some small proje
 
 ---
 
-Feel free to connect with me on [LinkedIn](#) or check out my [projects](#) to see what I've been working on.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lukeoregan/).
