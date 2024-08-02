@@ -17,7 +17,7 @@ If you are looking for a developer who’ll take over the research and developme
 ### Contact Information
 -  [![Linkedin Badge](https://img.shields.io/badge/-lukeoregan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lukeoregan/)
 -  📧 [hello@lbor.dev](mailto:hello@lbor.dev)
--  🌐 [www.lbor.dev](http://www.lbor.dev)
+-  🌐 <a href="https://lbor.dev" target="_blank">www.lbor.dev</a>
 
 ---
 
@@ -27,8 +27,6 @@ If you are looking for a developer who’ll take over the research and developme
 **University for the Creative Arts**  
 Epsom  
 _Sep 2006 - Jun 2010_
--  [Relevant Coursework or Activities]
--  [Relevant Coursework or Activities]
 
 ---
 
@@ -110,4 +108,4 @@ During my time studying, I launched as a digital designer doing some small proje
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/lukeoregan/).
+Feel free to connect with me on <a href="https://www.linkedin.com" target="_blank">LinkedIn</a>
