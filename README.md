@@ -23,7 +23,7 @@
 
 I'm a senior full-stack developer and digital strategist based in the UK, specialising in end-to-end web development — from design and architecture through to deployment and ongoing optimisation. With a background in graphic design and over 15 years of professional experience, I bring a rare combination of creative and technical expertise to every project.
 
-I currently work as a **Senior Full-Stack & Multimedia Developer** at [Direct Design Studio](https://directdesign.co.uk), where I build robust web applications, craft CMS-driven websites, and deliver digital solutions that drive real results for clients.
+I currently work as a **Senior Full-Stack & Multimedia Developer** at [Direct Design Studio](https://dda.co.uk), where I build robust web applications, craft CMS-driven websites, and deliver digital solutions that drive real results for clients.
 
 ## What I Do
 
